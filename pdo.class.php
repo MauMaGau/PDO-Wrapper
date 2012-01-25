@@ -10,7 +10,7 @@
 *  Optionally, db_debug can be passed, and will print out html commented debug info if set to true. All other array elements are ignored.
 *  Or this can be set as a property after the object has been instantiated - $db->debug = true
 * 
-*  #Functions accept 
+*  #Query Method Params: 
 *  a string - the database query including ? for parameters, 
 *  and an array - the query parameters in the same order as given in the query string.
 * 
